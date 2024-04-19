@@ -6,9 +6,7 @@ StEduCov, a dataset annotated for stances toward online education during the COV
 
 
 
-This is dataset introduced in the paper:
-
-[**StEduCov: An Explored and Benchmarked Dataset on Stance Detection in Tweets towards Online Education during COVID-19 Pandemic**](https://www.mdpi.com/2504-2289/6/3/88).  ***Big Data and Cognitive Computing Journal*** 
+This dataset was introduced in the paper titled [**StEduCov: An Explored and Benchmarked Dataset on Stance Detection in Tweets towards Online Education during COVID-19 Pandemic**](https://www.mdpi.com/2504-2289/6/3/88), published in the ***Big Data and Cognitive Computing Journal*** 
 
 <!-- [[PDF]](https://www.mdpi.com/2504-2289/6/3/88) -->
 
