@@ -25,3 +25,9 @@ If you used this dataset, please cite the following paper:
   publisher={MDPI}
 }
 ```
+
+## Note: 
+
+The dataset is provided with only the 'tweet ID' and 'class label' to adhere to Twitter's guidelines. You can retrieve the tweets by using the tweet ID, following the guidelines provided in this tutorial: [**Fetch Tweets Using Their IDs with Tweepy, Twitter API, and Python**] (https://medium.com/analytics-vidhya/fetch-tweets-using-their-ids-with-tweepy-twitter-api-and-python-ee7a22dcb845).
+
+If you encounter any issues during this process, please feel free to reach out to me for assistance: Omama.hamad@qu.edu.qa
